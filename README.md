@@ -1,5 +1,5 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-## DATE : 17/01/2023
+## DATE : O7-12-2022
 ## NAME : GANESH R
 ## Ref No : 22009090
 ## AIM
@@ -44,7 +44,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![![Web capture_17-1-2023_141951_](https://user-images.githubusercontent.com/120884552/212852491-94a7fbac-77c8-4b3d-b5d0-db76a5ee5b55.jpeg)
+![Uploading Screenshot_20230126_132334.png…]()
+
 
 
 ## RESULT
